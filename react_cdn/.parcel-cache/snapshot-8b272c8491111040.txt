@@ -1,6 +1,6 @@
 5978
 63/home/g/Documents/frontend/react_cdn/dist/index.5baa4167.js.map1727624066205280782 0
-47/home/g/Documents/frontend/react_cdn/.gitignore1727622485094687819 0
+47/home/g/Documents/frontend/react_cdn/.gitignore1727624172541521149 0
 47/home/g/Documents/frontend/react_cdn/index.html1727624059308620287 0
 46/home/g/Documents/frontend/react_cdn/style.css1727550971081792917 0
 72/home/g/Documents/frontend/react_cdn/node_modules/domelementtype/LICENSE1727624052404951060 0
@@ -1553,7 +1553,7 @@
 101/home/g/Documents/frontend/react_cdn/node_modules/css-select/node_modules/domutils/lib/esm/feeds.d.ts1727624052674977390 0
 94/home/g/Documents/frontend/react_cdn/node_modules/css-select/lib/pseudo-selectors/aliases.d.ts1727624052711980998 0
 79/home/g/Documents/frontend/react_cdn/node_modules/css-select/lib/index.d.ts.map1727624052679977877 0
-43/home/g/Documents/frontend/react_cdn/app.js1727623753661686548 0
+43/home/g/Documents/frontend/react_cdn/app.js1727624215185776847 0
 113/home/g/Documents/frontend/react_cdn/node_modules/@parcel/optimizer-htmlnano/node_modules/mdn-data/css/units.json1727624052665976512 0
 106/home/g/Documents/frontend/react_cdn/node_modules/@parcel/package-manager/test/fixtures/packages/peers-2.01727624052709980803 1
 80/home/g/Documents/frontend/react_cdn/node_modules/@parcel/core/lib/loadDotEnv.js1727624052780987727 0
