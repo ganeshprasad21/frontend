@@ -1,5 +1,7 @@
-5978
-63/home/g/Documents/frontend/react_cdn/dist/index.5baa4167.js.map1727624066205280782 0
+5974
+63/home/g/Documents/frontend/react_cdn/dist/index.5baa4167.js.map1727624259477918195 0
+60/home/g/Documents/frontend/react_cdn/dist/index.3a01df49.css1727624259473917922 0
+41/home/g/Documents/frontend/react_cdn/dist1727624259468917580 1
 47/home/g/Documents/frontend/react_cdn/.gitignore1727624172541521149 0
 47/home/g/Documents/frontend/react_cdn/index.html1727624059308620287 0
 46/home/g/Documents/frontend/react_cdn/style.css1727550971081792917 0
@@ -905,7 +907,6 @@
 74/home/g/Documents/frontend/react_cdn/node_modules/term-size/vendor/windows1727624052486959056 1
 95/home/g/Documents/frontend/react_cdn/node_modules/@parcel/reporter-tracer/src/TracerReporter.js1727624052473957788 0
 104/home/g/Documents/frontend/react_cdn/node_modules/@parcel/package-manager/src/validateModuleSpecifier.js1727624052685978463 0
-41/home/g/Documents/frontend/react_cdn/dist1727623563928026860 1
 77/home/g/Documents/frontend/react_cdn/node_modules/@parcel/reporter-tracer/src1727624052463956813 1
 73/home/g/Documents/frontend/react_cdn/node_modules/@parcel/reporter-tracer1727624052473957788 1
 102/home/g/Documents/frontend/react_cdn/node_modules/lmdb/node_modules/node-addon-api/tools/conversion.js1727624052602970369 0
@@ -1185,7 +1186,6 @@
 93/home/g/Documents/frontend/react_cdn/node_modules/@parcel/packager-wasm/lib/wasm-sourcemap.js1727624052474957886 0
 73/home/g/Documents/frontend/react_cdn/node_modules/@parcel/packager-js/src1727624052604970563 1
 74/home/g/Documents/frontend/react_cdn/node_modules/htmlnano/lib/helpers.cjs1727624052533963639 0
-67/home/g/Documents/frontend/react_cdn/dist/react_cdn.3464ddca.js.map1727623563923026898 0
 105/home/g/Documents/frontend/react_cdn/node_modules/@parcel/optimizer-svgo/node_modules/css-tree/lib/syntax1727624052775987239 1
 76/home/g/Documents/frontend/react_cdn/node_modules/color-convert/package.json1727624052404951060 0
 86/home/g/Documents/frontend/react_cdn/node_modules/@parcel/core/src/loadParcelPlugin.js1727624052784988117 0
@@ -1459,7 +1459,7 @@
 85/home/g/Documents/frontend/react_cdn/node_modules/css-tree/cjs/syntax/node/String.cjs1727624052778987532 0
 118/home/g/Documents/frontend/react_cdn/node_modules/@parcel/optimizer-htmlnano/node_modules/svgo/plugins/cleanupAttrs.js1727624052546964907 0
 78/home/g/Documents/frontend/react_cdn/node_modules/@parcel/types/lib/index.d.ts1727624052534963737 0
-64/home/g/Documents/frontend/react_cdn/dist/index.3a01df49.css.map1727623563928026860 0
+64/home/g/Documents/frontend/react_cdn/dist/index.3a01df49.css.map1727624259475918058 0
 115/home/g/Documents/frontend/react_cdn/node_modules/css-select/node_modules/entities/lib/esm/generated/encode-html.js1727624052571967345 0
 84/home/g/Documents/frontend/react_cdn/node_modules/msgpackr-extract/node_modules/.bin1727624053279036244 1
 91/home/g/Documents/frontend/react_cdn/node_modules/@parcel/core/lib/requests/EntryRequest.js1727624052743984119 0
@@ -2050,7 +2050,6 @@
 112/home/g/Documents/frontend/react_cdn/node_modules/css-select/node_modules/entities/lib/decode_codepoint.d.ts.map1727624052628972904 0
 74/home/g/Documents/frontend/react_cdn/node_modules/nth-check/lib/index.d.ts1727624052575967735 0
 109/home/g/Documents/frontend/react_cdn/node_modules/csso/node_modules/css-tree/cjs/syntax/node/TypeSelector.cjs1727624052782987922 0
-63/home/g/Documents/frontend/react_cdn/dist/react_cdn.3464ddca.js1727623563920026921 0
 106/home/g/Documents/frontend/react_cdn/node_modules/@parcel/optimizer-htmlnano/node_modules/mdn-data/LICENSE1727624052425953108 0
 84/home/g/Documents/frontend/react_cdn/node_modules/@swc/helpers/_/_throw/package.json1727624052845994066 0
 96/home/g/Documents/frontend/react_cdn/node_modules/caniuse-lite/data/features/css-nth-child-of.js1727624052825992116 0
@@ -2260,7 +2259,7 @@
 76/home/g/Documents/frontend/react_cdn/node_modules/semver/functions/coerce.js1727624052458956326 0
 96/home/g/Documents/frontend/react_cdn/node_modules/dom-serializer/node_modules/entities/readme.md1727624052557965980 0
 92/home/g/Documents/frontend/react_cdn/node_modules/lmdb/node_modules/node-addon-api/nothing.c1727624052412951840 0
-59/home/g/Documents/frontend/react_cdn/dist/index.5baa4167.js1727624066200280306 0
+59/home/g/Documents/frontend/react_cdn/dist/index.5baa4167.js1727624259473917922 0
 100/home/g/Documents/frontend/react_cdn/node_modules/css-select/node_modules/domutils/lib/esm/legacy.js1727624052524962762 0
 95/home/g/Documents/frontend/react_cdn/node_modules/@parcel/core/test/fixtures/library-scopehoist1727624052863995821 1
 93/home/g/Documents/frontend/react_cdn/node_modules/css-tree/cjs/syntax/node/MediaCondition.cjs1727624052739983729 0
@@ -2300,7 +2299,6 @@
 86/home/g/Documents/frontend/react_cdn/node_modules/@parcel/core/src/UncommittedAsset.js1727624052844993968 0
 75/home/g/Documents/frontend/react_cdn/node_modules/js-yaml/lib/type/merge.js1727624052632973294 0
 94/home/g/Documents/frontend/react_cdn/node_modules/css-select/node_modules/domhandler/readme.md1727624052557965980 0
-59/home/g/Documents/frontend/react_cdn/dist/index.7c0ccee6.js1727623563926026875 0
 121/home/g/Documents/frontend/react_cdn/node_modules/@parcel/optimizer-htmlnano/node_modules/css-tree/lib/syntax/node/CDC.js1727624052561966370 0
 90/home/g/Documents/frontend/react_cdn/node_modules/@swc/helpers/esm/_array_like_to_array.js1727624052898999234 0
 100/home/g/Documents/frontend/react_cdn/node_modules/css-select/node_modules/entities/lib/esm/generated1727624052710980901 1
@@ -2332,7 +2330,6 @@
 117/home/g/Documents/frontend/react_cdn/node_modules/@parcel/optimizer-svgo/node_modules/css-select/lib/compile.d.ts.map1727624052572967443 0
 110/home/g/Documents/frontend/react_cdn/node_modules/@parcel/optimizer-svgo/node_modules/svgo/lib/svgo/plugins.js1727624052680977975 0
 83/home/g/Documents/frontend/react_cdn/node_modules/caniuse-lite/data/features/wav.js1727624052964005573 0
-63/home/g/Documents/frontend/react_cdn/dist/index.7c0ccee6.js.map1727623563928026860 0
 87/home/g/Documents/frontend/react_cdn/node_modules/source-map/lib/source-map-consumer.js1727624052536963932 0
 81/home/g/Documents/frontend/react_cdn/node_modules/caniuse-lite/data/regions/YE.js1727624052967005866 0
 66/home/g/Documents/frontend/react_cdn/node_modules/stable/README.md1727624052427953302 0
@@ -2746,7 +2743,7 @@
 128/home/g/Documents/frontend/react_cdn/node_modules/@parcel/optimizer-htmlnano/node_modules/css-tree/lib/syntax/atrule/supports.js1727624052804990068 0
 70/home/g/Documents/frontend/react_cdn/node_modules/@lmdb/lmdb-linux-x641727624052750984801 1
 116/home/g/Documents/frontend/react_cdn/node_modules/@parcel/optimizer-svgo/node_modules/svgo/plugins/collapseGroups.js1727624052584968613 0
-52/home/g/Documents/frontend/react_cdn/dist/index.html1727623563913026974 0
+52/home/g/Documents/frontend/react_cdn/dist/index.html1727624259473917922 0
 106/home/g/Documents/frontend/react_cdn/node_modules/css-select/node_modules/domutils/lib/esm/manipulation.js1727624052535963835 0
 86/home/g/Documents/frontend/react_cdn/node_modules/@parcel/optimizer-image/package.json1727624052456956130 0
 80/home/g/Documents/frontend/react_cdn/node_modules/@parcel/utils/src/TapStream.js1727624052778987532 0
@@ -2885,7 +2882,6 @@
 86/home/g/Documents/frontend/react_cdn/node_modules/@parcel/core/test/fixtures/bundle.js1727624052708980706 0
 82/home/g/Documents/frontend/react_cdn/node_modules/@parcel/source-map/dist/types.js1727624052588969003 0
 105/home/g/Documents/frontend/react_cdn/node_modules/css-select/node_modules/domutils/lib/traversal.d.ts.map1727624052666976610 0
-60/home/g/Documents/frontend/react_cdn/dist/index.3a01df49.css1727623563926026875 0
 92/home/g/Documents/frontend/react_cdn/node_modules/@parcel/runtime-react-refresh/package.json1727624052482958666 0
 99/home/g/Documents/frontend/react_cdn/node_modules/@swc/helpers/cjs/_is_native_reflect_construct.cjs1727624052888998259 0
 91/home/g/Documents/frontend/react_cdn/node_modules/caniuse-lite/data/features/multicolumn.js1727624052934002648 0
